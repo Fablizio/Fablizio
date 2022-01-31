@@ -38,15 +38,6 @@ My name is Fabrizio, I'm actually experimenting with a lot of things, GitHub it'
     <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;
 </p>
 
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-    <a target="_blank"href="www.linkedin.com/in/fabrizio-cottone-developer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   
-</p>
-
-<hr>
 
 ### Stats
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voldrak&theme=blue-green&layout=compact)](https://github.com/Fablizio/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
