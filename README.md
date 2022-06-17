@@ -10,7 +10,7 @@ My name is Fabrizio, I'm actually experimenting with a lot of things, GitHub it'
 
 <hr>
     
-- 🌱 I’m currently attending a bootcamp With Edgemony!
+- 🌱 I’m currently working as QA Engineer for Reply!
 
 <hr>
 
